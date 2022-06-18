@@ -1,2 +1,2 @@
 # Salary_Prediction_Province
-Prediction for salary in each Province Using Machine Learning
+Prediction for salary in each Province Indonesia Using Machine Learning
